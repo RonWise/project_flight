@@ -1,5 +1,5 @@
 --
--- project code by Roman Novokshanov
+-- 
 --
 local SCRIPT_NAME     = 'project'
 
